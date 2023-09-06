@@ -5,8 +5,15 @@ Repositório de todos os materiais gerados no Mestrado em Engenharia da Computa�
 - [Portal UPE-PPGEC](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/)
 - [Disciplinas 2023.2](#disciplinas-2023.2)
 
+<div> 
+  <a href="mailto:racs1@ecomp.poli.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodolfo-amorim-9a17a038" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://lattes.cnpq.br/8100311975351369" target="_blank"><img src="https://img.shields.io/badge/-Lattes-183A61?logo=googledocs&logoColor=white&style=for-the-badge" target="_blank"></a>
+</div>
+
 ## Disciplinas 2023.2
 
 |Disciplina | Descrição | Professor | Formato | Status |
 |---|---|---|---|---|
 |[TALP](https://classroom.google.com/c/NjIwNzIwNTk1Mjc3)| Tópicos Avançados em Linguagem de Programação| Byron L. Dantas Bezerra | Remoto | A iniciar |
+
