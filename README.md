@@ -9,7 +9,7 @@ Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Exten
 </div>
 
 ## Repositórios Públicos
-Material gerado no desenvolvimento de atividades vinculadas aos portais/tópicos abaixo: 
+Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo: 
 - [Kaggle](#kaggle)
 - [DIO.me](#dio)
 - [Respostas de Exercícios de Livros](#respostas-de-exercícios-de-livros)
