@@ -8,13 +8,27 @@ Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Exten
   <a href="http://lattes.cnpq.br/8100311975351369" target="_blank"><img src="https://img.shields.io/badge/-Lattes-183A61?logo=googledocs&logoColor=white&style=for-the-badge" target="_blank"></a>
 </div>
 
-## PPGEC/UPE/M.Sc.
-Repositório de todos os materiais gerados no Mestrado em Engenharia da Computação da Poli-UPE. 
-- [Portal UPE-PPGEC](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/)
-- [Disciplinas 2023.2](#disciplinas-2023.2)
+## Repositórios Públicos
+Material gerado no desenvolvimento de atividades vinculadas aos portais/tópicos abaixo: 
+- [Kaggle](#kaggle)
+- [DIO.me](#dio)
+- [Respostas de Exercícios de Livros](#respostas-de-exercícios-de-livros)
 
-### Disciplinas 2023.2
+### Kaggle
 
-|Disciplina | Descrição | Professor | Formato | Status |
-|---|---|---|---|---|
-|[TALP](https://classroom.google.com/c/NjIwNzIwNTk1Mjc3)| Tópicos Avançados em Linguagem de Programação| Byron L. Dantas Bezerra | Remoto | A iniciar |
+|Base de Dados | Descrição | Objetivo |
+|---|---|---|
+|[fifa2019](https://github.com/racs1/kaggle/tree/main/fifa2019)| Base de dados que contém 89 atributos de 18.2K jogadores de futebol da edição 2019 do FIFA| Agrupamento de Jogadores por Perfil Técnico  |
+
+### DIO
+
+|Base de Dados | Descrição | Objetivo |
+|---|---|---|
+|[covid19br](https://github.com/racs1/dio/tree/main/ml-covid19br)| Base de dados com informações sobre o covid19 | Investigação dos dados da disseminação do COVID-19 no Brasil |
+|[AdventureWorks](https://github.com/racs1/dio/tree/main/analise-de-dados-com-python-pandas)|Base de dados de venda de produtos|Análise Exploratória com Python e Pandas|
+
+### Respostas de Exercícios de Livros
+
+|Livro | ISBN | Link |
+|---|---|---|
+|[Python Crash Course, 3rd Edition - Eric Matthes](https://github.com/racs1/livros-respostas/tree/main/python-crash-course-3rdEdition-matthes)| 978-85-7522-843-2 | https://a.co/d/3GqrsYu |
