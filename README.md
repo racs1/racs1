@@ -19,8 +19,8 @@ Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo:
 
 |Curso | Descrição | Instituição | Status | 
 |---|---|---|---|
-|[PPGEC_MSc](https://github.com/racs1/livros-respostas/tree/main/python-crash-course-3rdEdition-matthes)| Programa de Pós-graduação em Engenharia de Computação (Mestrado Acadêmico) | [UPE-Poli](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) | Em andamento
-|[PET-GOV RH-IA](https://github.com/racs1/livros-respostas/tree/main/python-crash-course-3rdEdition-matthes)| Programa de Formação de RH - Público em Inteligência Artificial, Ciência de Dados e Analytics (Extensão Acadêmica) | [UPE-Poli](https://www.facepe.br/wp-content/uploads/2021/12/Edital-FACEPE-19-2021-PETGOV-Resultado.pdf) | Concluído
+|[PPGEC_MSc](https://github.com/racs1/PPGEC_M.Sc)| Programa de Pós-graduação em Engenharia de Computação (Mestrado Acadêmico) | [UPE-Poli](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) | Em andamento
+|[PET-GOV RH-IA](https://github.com/racs1/pet-gov-rh-ia)| Programa de Formação de RH - Público em Inteligência Artificial, Ciência de Dados e Analytics (Extensão Acadêmica) | [UPE-Poli](https://www.facepe.br/wp-content/uploads/2021/12/Edital-FACEPE-19-2021-PETGOV-Resultado.pdf) | Concluído
 
 ### Kaggle
 
