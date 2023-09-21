@@ -8,7 +8,7 @@ Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Exten
   <a href="http://lattes.cnpq.br/8100311975351369" target="_blank"><img src="https://img.shields.io/badge/-Lattes-183A61?logo=googledocs&logoColor=white&style=for-the-badge" target="_blank"></a>
 </div>
 
-## Repositórios Públicos
+## Repositórios
 Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo: 
 - [Capacitações](#capacitações)
 - [Kaggle](#kaggle)
