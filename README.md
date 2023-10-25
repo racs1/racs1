@@ -11,9 +11,8 @@ Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Exten
 ## Repositórios
 Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo: 
 - [Capacitações](#capacitações)
-- [Kaggle](#kaggle)
-- [DIO.me](#dio)
-- [Exercícios de Livros](#exercícios-de-livros)
+- [Cursos/Estudos](#cursos-e-estudos)
+- [Exercícios de Livros](#resolução-de-exercícios)
 
 ### Capacitações
 
@@ -22,20 +21,16 @@ Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo:
 | Mestrado | [PPGEC_MSc](https://github.com/racs1/PPGEC_M.Sc)| Programa de Pós-graduação em Engenharia de Computação (Mestrado Acadêmico) | [UPE-Poli](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) | Em andamento
 | Especialização | [PET-GOV-RH-IA](https://github.com/racs1/pet-gov-rh-ia)| Programa de Formação de RH - Público em Inteligência Artificial, Ciência de Dados e Analytics (Extensão Acadêmica) | [UPE-Poli](https://www.facepe.br/wp-content/uploads/2021/12/Edital-FACEPE-19-2021-PETGOV-Resultado.pdf) | Concluído
 
-### Kaggle
+### Cursos e Estudos
 
-|Base de Dados | Descrição | Objetivo |
-|---|---|---|
-|[fifa2019](https://github.com/racs1/kaggle/tree/main/fifa2019)| Base de dados que contém 89 atributos de 18.2K jogadores de futebol da edição 2019 do FIFA| Agrupamento de Jogadores por Perfil Técnico  |
+| Portal | Base de Dados | Descrição | Objetivo |
+|---|---|---|---|
+| [Kaggle](https://www.kaggle.com/) |[fifa2019](https://github.com/racs1/kaggle/tree/main/fifa2019)| Base de dados que contém 89 atributos de 18.2K jogadores de futebol da edição 2019 do FIFA| Agrupamento de Jogadores por Perfil Técnico  |
+| [DIO.me](https://www.dio.me/) |[covid19br](https://github.com/racs1/dio/tree/main/ml-covid19br)| Base de dados com informações sobre o covid19 | Investigação dos dados da disseminação do COVID-19 no Brasil |
+| [DIO.me](https://www.dio.me/) |[AdventureWorks](https://github.com/racs1/dio/tree/main/analise-de-dados-com-python-pandas)|Base de dados de venda de produtos|Análise Exploratória com Python e Pandas|
+| [Udemy](https://www.udemy.com/) | Diversas | [Curso 'Python para Data Science e Machine Learning'](https://www.udemy.com/course/python-para-data-science-e-machine-learning/) | Resolução dos Exercícios
 
-### Digital Innovation One (DIO.me)
-
-|Base de Dados | Descrição | Objetivo |
-|---|---|---|
-|[covid19br](https://github.com/racs1/dio/tree/main/ml-covid19br)| Base de dados com informações sobre o covid19 | Investigação dos dados da disseminação do COVID-19 no Brasil |
-|[AdventureWorks](https://github.com/racs1/dio/tree/main/analise-de-dados-com-python-pandas)|Base de dados de venda de produtos|Análise Exploratória com Python e Pandas|
-
-### Exercícios de Livros
+### Resolução de Exercícios
 
 |Livro | ISBN | Link |
 |---|---|---|
