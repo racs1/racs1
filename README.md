@@ -16,10 +16,10 @@ Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo:
 
 ### Capacitações
 
-| Nível | Programa | Descrição | Instituição | Status | 
-|---|---|---|---|---|
-| Mestrado | [PPGEC_MSc](https://github.com/racs1/PPGEC_M.Sc)| Programa de Pós-graduação em Engenharia de Computação (Mestrado Acadêmico) | [UPE-Poli](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) | Em andamento
-| Especialização | [PET-GOV-RH-IA](https://github.com/racs1/pet-gov-rh-ia)| Programa de Formação de RH - Público em Inteligência Artificial, Ciência de Dados e Analytics (Extensão Acadêmica) | [UPE-Poli](https://www.facepe.br/wp-content/uploads/2021/12/Edital-FACEPE-19-2021-PETGOV-Resultado.pdf) | Concluído
+| Nível | Programa | Descrição | Repositório | 
+|---|---|---|---|
+| Mestrado | [PPGEC_MSc UPE-Poli](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) | Programa de Pós-graduação em Engenharia de Computação (Mestrado Acadêmico) |  https://github.com/racs1/PPGEC_M.Sc
+| Especialização | [PET-GOV-RH-IA UPE-Poli](https://www.facepe.br/wp-content/uploads/2021/12/Edital-FACEPE-19-2021-PETGOV-Resultado.pdf) | Programa de Formação de RH - Público em Inteligência Artificial, Ciência de Dados e Analytics (Extensão Acadêmica) | https://github.com/racs1/pet-gov-rh-ia
 
 ### Cursos e Estudos
 
@@ -32,7 +32,7 @@ Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo:
 
 ### Resolução de Exercícios
 
-|Livro | ISBN | Link |
-|---|---|---|
-|[Python Crash Course, 3rd Edition - Eric Matthes](https://github.com/racs1/livros-respostas/tree/main/python-crash-course-3rdEdition-matthes)| 978-85-7522-843-2 | https://a.co/d/3GqrsYu |
+|Livro | ISBN | Link | Repositório
+|---|---|---|---|
+|Python Crash Course, 3rd Edition - Eric Matthes| 978-85-7522-843-2 | https://a.co/d/3GqrsYu | https://github.com/racs1/livros-respostas/tree/main/python-crash-course-3rdEdition-matthes
 
