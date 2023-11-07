@@ -23,12 +23,12 @@ Material gerado no desenvolvimento de atividades vinculadas aos itens abaixo:
 
 ### Cursos e Estudos
 
-| Portal | Base de Dados | Descrição | Objetivo |
-|---|---|---|---|
-| [Kaggle](https://www.kaggle.com/) |[fifa2019](https://github.com/racs1/kaggle/tree/main/fifa2019)| Base de dados que contém 89 atributos de 18.2K jogadores de futebol da edição 2019 do FIFA| Agrupamento de Jogadores por Perfil Técnico  |
-| [DIO.me](https://www.dio.me/) |[covid19br](https://github.com/racs1/dio/tree/main/ml-covid19br)| Base de dados com informações sobre o covid19 | Investigação dos dados da disseminação do COVID-19 no Brasil |
-| [DIO.me](https://www.dio.me/) |[AdventureWorks](https://github.com/racs1/dio/tree/main/analise-de-dados-com-python-pandas)|Base de dados de venda de produtos|Análise Exploratória com Python e Pandas|
-| [Udemy](https://www.udemy.com/) | [Diversas](https://github.com/racs1/udemy) | [Curso 'Python para Data Science e Machine Learning'](https://www.udemy.com/course/python-para-data-science-e-machine-learning/) | Resolução dos Exercícios
+| Portal | Base de Dados | Descrição | Objetivo | Repositório
+|---|---|---|---|---|
+| Kaggle |[fifa2019](https://www.kaggle.com/karangadiya/fifa19) | Base de dados que contém 89 atributos de 18.2K jogadores de futebol da edição 2019 do FIFA| Agrupamento de Jogadores por Perfil Técnico | https://github.com/racs1/kaggle/tree/main/fifa2019
+| DIO.me |[covid19br](https://www.dio.me/projects/criando-modelos-com-python-e-machine-learning-para-prever-a-evolucao-do-covid-19-no-brasil) | Base de dados com informações sobre o covid19 | Investigação dos dados da disseminação do COVID-19 no Brasil | https://github.com/racs1/dio/tree/main/ml-covid19br
+| DIO.me | AdventureWorks |Base de dados de venda de produtos|Análise Exploratória com Python e Pandas|https://github.com/racs1/dio/tree/main/analise-de-dados-com-python-pandas
+| Udemy | [Diversas](https://www.udemy.com/course/python-para-data-science-e-machine-learning/) | Curso 'Python para Data Science e Machine Learning' | Resolução dos Exercícios | https://github.com/racs1/udemy
 
 ### Resolução de Exercícios
 
