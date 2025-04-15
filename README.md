@@ -1,6 +1,6 @@
 # Rodolfo Silva
 
-Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Extensão Acadêmica em Inteligência Artificial, Ciência de Dados e Analytics (UPE/Poli). Mestrando em Engenharia da Computação (UPE/Poli). Experiência profissional nas áreas de Saneamento, Automação Industrial, Gestão da Manutenção e Engenharia Clínica.
+Teste Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Extensão Acadêmica em Inteligência Artificial, Ciência de Dados e Analytics (UPE/Poli). Mestrando em Engenharia da Computação (UPE/Poli). Experiência profissional nas áreas de Saneamento, Automação Industrial, Gestão da Manutenção e Engenharia Clínica.
 
 <div> 
   <a href="mailto:racs1@ecomp.poli.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target="_blank"></a>
