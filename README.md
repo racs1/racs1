@@ -19,8 +19,8 @@ Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Exten
 
 | Nível | Programa | Descrição | Repositório | 
 |---|---|---|---|
-| Mestrado | [PPGEC_MSc UPE-Poli](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) | Programa de Pós-graduação em Engenharia de Computação (Mestrado Acadêmico) |  https://github.com/racs1/M_PPGEC_UPE
-| Especialização | [PET-GOV-RH-IA UPE-Poli](https://www.facepe.br/wp-content/uploads/2021/12/Edital-FACEPE-19-2021-PETGOV-Resultado.pdf) | Programa de Formação de RH - Público em Inteligência Artificial, Ciência de Dados e Analytics (Extensão Acadêmica) | https://github.com/racs1/Ext_PPGEC_UPE
+| Mestrado | [PPGEC_MSc UPE-Poli](https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/) | Material das disciplinas do Programa de Pós-graduação em Engenharia de Computação (Mestrado Acadêmico) |  https://github.com/racs1/M_PPGEC_UPE
+| Especialização | [PET-GOV-RH-IA UPE-Poli](https://www.facepe.br/wp-content/uploads/2021/12/Edital-FACEPE-19-2021-PETGOV-Resultado.pdf) | Material das disciplinas do Programa de Formação de RH - Público em Inteligência Artificial, Ciência de Dados e Analytics (Extensão Acadêmica) | https://github.com/racs1/Ext_PPGEC_UPE
 
 ### Outros Cursos
 
