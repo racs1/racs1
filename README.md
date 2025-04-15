@@ -35,6 +35,7 @@ Engenheiro eletrônico (UFPE) com MBA em Gerenciamento de Projetos (FGV) e Exten
 |---|---|---|---|
 | Asimov Academy | [Criando Aplicativos Web com Streamlit](https://hub.asimov.academy/curso/criando-aplicativos-web-com-streamlit/) | Material, Códigos Fonte e Exercícios | https://github.com/racs1/ASIMOV_ACADEMY/tree/main/Streamlit |
 | Asimov Academy | [Aplicações de IA com LangChain](https://hub.asimov.academy/curso/aplicacoes-de-ia-com-langchain/) | Material, Códigos Fonte e Exercícios | https://github.com/racs1/ASIMOV_ACADEMY/tree/main/IA_LangChain |
+| DSA | [Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science) | Material, Códigos Fonte e Exercícios | https://github.com/racs1/DSA/tree/main/PythonFundamentos |
 | Udemy | [Python para Data Science e Machine Learning](https://www.udemy.com/course/python-para-data-science-e-machine-learning/) | Material, Códigos Fonte e Exercícios | https://github.com/racs1/udemy/tree/main/Python-Data-Science-and-Machine-Learning-Bootcamp |
 | Udemy | [Séries Temporais com Python](https://www.udemy.com/course/series-temporais-com-python-i/) | Material, Códigos Fonte e Exercícios | https://github.com/racs1/udemy/tree/main/Series-temporais-python
 
